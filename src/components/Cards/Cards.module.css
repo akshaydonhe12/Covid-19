@@ -7,17 +7,17 @@
 }
 
 .confirmed {
-    border-bottom: 10px solid rgb(255,106,136);
+border: 2px solid rgb(255,106,136);
 }
 
 .active {
-    border-bottom: 10px solid rgb(112,180,255);
+    border: 2px solid rgb(112,180,255);
 }
 
 .recovered {
-    border-bottom: 10px solid rgb(126,202,143);
+    border: 2px solid rgb(126,202,143);
 }
 
 .deaths {
-    border-bottom: 10px solid rgb(183,187,191);
+    border: 2px solid rgb(183,187,191);
 }

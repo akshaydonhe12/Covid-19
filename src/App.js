@@ -31,7 +31,7 @@ class App extends React.Component {
             <div className="container" align="center" justify="center">
                 <h1>
                     <img height="220" src={logo} justify="center"/>
-                    <h3 align="center">Mumbai</h3>
+                    <h3 align="center">MUMBAI</h3>
                     <Cards data={indianData} />
                     {/*<Chart />*/}
                     {/*<CountryPicker />*/}
